@@ -25,7 +25,6 @@ public class Practice1 {
 
 				a[y] = a[y + 1];
 			}
-			//a[first - 1] = a[i];
 		}
 
 	}
