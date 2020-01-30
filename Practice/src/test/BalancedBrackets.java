@@ -8,7 +8,7 @@ import java.util.*;
  */
 
 
-class StackProblem {
+class BalancedBrackets {
 
     public static void main(String[] arg) {
         Scanner sc = new Scanner(System.in);
